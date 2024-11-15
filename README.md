@@ -1,7 +1,4 @@
-# CSP571-Project
-
-# Boston House Prices Dataset Analysis
-
+# CSP571 Project - Boston House Prices Dataset Analysis
 ## Dataset Overview
 This project utilizes the "Boston House Prices dataset" from Kaggle, which contains data on various attributes of houses in Boston suburbs. The dataset provides insights into the housing values in suburbs of Boston, with features like crime rate, property tax rate, number of rooms, and more.
 

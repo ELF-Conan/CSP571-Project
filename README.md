@@ -2,6 +2,8 @@
 ## Dataset Overview
 This project utilizes the "Boston House Prices dataset" from Kaggle, which contains data on various attributes of houses in Boston suburbs. The dataset provides insights into the housing values in suburbs of Boston, with features like crime rate, property tax rate, number of rooms, and more.
 
+https://www.kaggle.com/datasets/vikrishnan/boston-house-prices 
+
 ## Project Objective
 The goal of this project is to analyze and predict housing prices based on various socioeconomic indicators included in the dataset.
 

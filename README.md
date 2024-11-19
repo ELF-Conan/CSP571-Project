@@ -64,10 +64,6 @@ The performance of each model is summarized below:
 
 ---
 
-Here's the updated **Files in the Repository** section for your README to reflect the new structure:
-
----
-
 ## **Files in the Repository**
 - `CSP571 Project - Yingqi.ipynb`: Jupyter notebook containing Yingqi's data exploration and initial analysis.
 - `CSP571 Project - Fatima.ipynb`: Jupyter notebook containing Fatima's baseline model development and evaluation.
